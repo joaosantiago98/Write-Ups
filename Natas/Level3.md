@@ -13,7 +13,9 @@ Again, to make sure:
 
 There is a hint here. Google not being able to find it makes me think about the **robots.txt** file used by webcrawlers.
 ![screenshot12](images/screenshot12.png)
+
 Looks like there is a hidden directory called **s3cr3t**.
 ![screenshot13](images/screenshot13.png)
+
 Again we found the **users.txt** file.
 ![screenshot14](images/screenshot14.png)
