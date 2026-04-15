@@ -6,10 +6,10 @@ Password: natas0
 URL:      http://natas0.natas.labs.overthewire.org
 ```
 
-![[Pasted image 20260212151414.png]]
+!(images/screenshot1.png)
 
 Access browser's development tools to inspect the page:
-![[Pasted image 20260212151530.png]]
+!(images/screenshot2.png)
 # Level 1
 
 ```
@@ -18,7 +18,7 @@ Password: 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
 URL:      http://natas1.natas.labs.overthewire.org
 ```
 
-![[Pasted image 20260212151817.png]]
+!(images/screenshot3.png)
 
 Access browser's development tools to inspect the page, this time by clicking *F12*:
-![[Pasted image 20260212151943.png]]
+!(images/screenshot4.png)
